@@ -28,7 +28,7 @@ This project outlines the post-install configuration of the open-source help des
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>Admin Panel: Access to system configuration.</p> 
 <p>Agent Panel: Access to ticket handling.</p>
@@ -40,7 +40,7 @@ This project outlines the post-install configuration of the open-source help des
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <h4>Departments</h4>
 <p>Organizes tickets and controls visibility, ensuring issues are routed to correct group.</p>  
@@ -54,7 +54,7 @@ This project outlines the post-install configuration of the open-source help des
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <h4>Agents</h4>
@@ -70,7 +70,7 @@ This project outlines the post-install configuration of the open-source help des
  <br />
  
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <h4>SLA Policies</h4>
